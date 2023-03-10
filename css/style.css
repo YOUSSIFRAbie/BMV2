@@ -113,6 +113,7 @@ header.header .container nav.links-h li a {
 .about {
   padding-top: var(--p-main);
   padding-bottom: var(--p-main);
+  border-bottom: var(--m-color);
 }
 .about .heading-about {
   text-align: center;
